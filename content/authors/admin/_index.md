@@ -41,4 +41,4 @@ Jacob Tempchin is an M.S. student in Quantitative Methods in the Social Sciences
 
 Jacob plans to apply to clinical psychology PhD programs this fall.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Tempchin.pdf" "newtab" >}}resumé{{< /staticref >}}.
